@@ -1,0 +1,374 @@
+
+@media (max-width: 575.98px) { 
+    .c-logo a img{
+       width: 60%;
+    }
+    .navbar-light .navbar-toggler{
+        font-size: 13px;
+    }
+    .navbar-nav{
+        font-size: 12px;
+    }
+    .banner{
+        min-height: 22vh;
+    }
+    .hg{
+        height: 200px;
+    }
+    .content h1{
+        font-size: 11px;
+        padding-top: 66px;
+        padding-right: 91px;
+    }
+    .content a{
+        padding: 5px 10px;
+    font-size: 9px;
+    margin-bottom: 21px;
+    margin-right: -34px;
+        
+    }
+    .content a:hover{
+        
+        font-size: 11px;
+    }
+    .snowboard h2{
+        font-size: 22px;
+    }
+    .snowboard p{
+        font-size: 14px;
+    }
+    .snowboard i{
+        font-size: 30px;
+    }
+    .slider h3{
+        font-size: 20px;
+    }
+    .mountain{
+        min-height: 35vh;
+    }
+    .mountain h1{
+        font-size: 25px;
+    }
+    .mountain p{
+        line-height: 25px;
+        font-size: 12px;
+    }
+    .feature h1{
+        font-size: 23px;
+    }
+    .feature i{
+        font-size: 25px;
+    }
+    .feauture-img p{
+        font-size: 14px;
+    }
+    .footer-content h3{
+        font-size: 14px;
+    }
+    .footer-content ul li{
+        padding-top: 3px;
+    }
+    .footer-content ul li a{
+        font-size: 12px;
+    }
+    .footer-content h4{
+        font-size: 17px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .footer-content input{
+        font-size: 10px;
+    }
+    .footer-content button{
+        font-size: 10px;
+    }
+    .footer-icon{
+        margin-top: 35px;
+    }
+    .footer-icon a{
+        padding-right: 20px;
+        font-size: 15px;
+    }
+    .footer-last{
+        font-size: 14px;
+    }
+    
+ }
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .c-logo a img{
+        width: 80%;
+     }
+     .navbar-light .navbar-toggler{
+         font-size: 17px;
+     }
+     .navbar-nav{
+         font-size: 14px;
+     }
+     .banner{
+        min-height: 25vh;
+    }
+    .hg{
+        height: 250px;
+    }
+    .content h1{
+        font-size: 28px;
+        padding-top: 66px;
+        padding-right: 91px;
+    }
+    .content a{
+        padding: 5px 12px;
+        font-size: 10px;
+        margin-bottom: 11px;
+        margin-right: -43px;
+    }
+    .content a:hover{
+        font-size: 12px;
+    }
+    .snowboard h2{
+        font-size: 23px;
+    }
+    .snowboard p{
+        font-size: 15px;
+    }
+    .snowboard i{
+        font-size: 31px;
+    }
+    .slider h3{
+        font-size: 21px;
+    }
+    .mountain{
+        min-height: 37vh;
+    }
+    .mountain h1{
+        font-size: 25px;
+    }
+    .mountain p{
+        line-height: 26px;
+        font-size: 13px;
+    }
+    .feature h1{
+        font-size: 23px;
+    }
+    .feature i{
+        font-size: 25px;
+    }
+    .feauture-img p{
+        font-size: 14px;
+    }
+    .footer-content h3{
+        font-size: 14px;
+    }
+    .footer-content ul li{
+        padding-top: 3px;
+    }
+    .footer-content ul li a{
+        font-size: 12px;
+    }
+    .footer-content h4{
+        font-size: 17px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .footer-content input{
+        font-size: 10px;
+    }
+    .footer-content button{
+        font-size: 10px;
+    }
+    .footer-icon{
+        margin-top: 35px;
+    }
+    .footer-icon a{
+        padding-right: 20px;
+        font-size: 15px;
+    }
+    .footer-last{
+        font-size: 14px;
+    }
+    
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .c-logo a img{
+        width: 90%;
+     }
+     .navbar-light .navbar-toggler{
+         font-size: 19px;
+     }
+     .navbar-nav{
+         font-size: 15px;
+     }
+     .banner{
+        min-height: 26vh;
+    }
+    .hg{
+        height: 300px;
+    }
+    .content h1{
+        font-size: 30px;
+        padding-top: 66px;
+        padding-right: 91px;
+    }
+    .content a{
+        padding: 7px 14px;
+        font-size: 12px;
+        margin-bottom: 11px;
+        margin-right: -30px;
+    }
+    .content a:hover{
+        font-size: 13px;
+    }
+    .snowboard h2{
+        font-size: 25px;
+    }
+    .snowboard p{
+        font-size: 17px;
+    }
+    .snowboard i{
+        font-size: 33px;
+    }
+    .slider h3{
+        font-size: 23px;
+    }
+    .mountain{
+        min-height: 38vh;
+    }
+    .mountain h1{
+        font-size: 27px;
+    }
+    .mountain p{
+        line-height: 26px;
+        font-size: 15px;
+    }
+    .feature h1{
+        font-size: 25px;
+    }
+    .feature i{
+        font-size: 27px;
+    }
+    .feauture-img p{
+        font-size: 16px;
+    }
+    .footer-content h3{
+        font-size: 15px;
+    }
+    .footer-content ul li{
+        padding-top: 4px;
+    }
+    .footer-content ul li a{
+        font-size: 13px;
+    }
+    .footer-content h4{
+        font-size: 17px;
+        
+    }
+    .footer-content input{
+        font-size: 10px;
+    }
+    .footer-content button{
+        font-size: 10px;
+    }
+    .footer-icon{
+        margin-top: 35px;
+    }
+    .footer-icon a{
+        padding-right: 12px;
+        font-size: 15px;
+    }
+    .footer-last{
+        font-size: 16px;
+    }
+    
+ }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .banner{
+        min-height: 40vh;
+    }
+    .hg{
+        height: 300px;
+    }
+    .content h1{
+        font-size: 40px;
+        padding-top: 199px;
+        padding-right: 129px;
+    }
+    .content a{
+        padding: 11px 25px;
+        font-size: 14px;
+        bottom: -69px;
+        right: 51px;
+    }
+    .content a:hover{
+        font-size: 15px;
+    }
+    .snowboard h2{
+        font-size: 30px;
+    }
+    .snowboard p{
+        font-size: 17px;
+    }
+    .snowboard i{
+        font-size: 33px;
+    }
+    .slider h3{
+        font-size: 24px;
+    }
+    .mountain{
+        min-height: 45vh;
+    }
+    .mountain h1{
+        font-size: 32px;
+    }
+    .mountain p{
+        line-height: 27px;
+        font-size: 16px;
+    }
+    .feature h1{
+        font-size: 27px;
+    }
+    .feature i{
+        font-size: 29px;
+    }
+    .feauture-img p{
+        font-size: 17px;
+    }
+    .footer-content h3{
+        font-size: 16px;
+    }
+    .footer-content ul li{
+        padding-top: 4px;
+    }
+    .footer-content ul li a{
+        font-size: 14px;
+    }
+    .footer-content h4{
+        font-size: 18px;
+        
+    }
+    .footer-content input{
+        font-size: 10px;
+    }
+    .footer-content button{
+        font-size: 10px;
+    }
+    .footer-icon{
+        margin-top: 35px;
+    }
+    .footer-icon a{
+        padding-right: 13px;
+        font-size: 16px;
+    }
+    .footer-last{
+        font-size: 16px;
+    }
+}
+
+
+@media (min-width: 1200px) { 
+    
+ }
